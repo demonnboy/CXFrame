@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CXFrame_Tests' do
+  pod 'CXFrame', :path => '../'
+  
+  
+end
