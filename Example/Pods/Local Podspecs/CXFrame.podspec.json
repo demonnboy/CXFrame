@@ -1,0 +1,22 @@
+{
+  "name": "CXFrame",
+  "version": "0.1.0",
+  "summary": "A short description of CXFrame.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/demonnboy/CXFrame",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "demonnboy": "caoxuan_ios@163.com"
+  },
+  "source": {
+    "git": "https://github.com/demonnboy/CXFrame.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CXFrame/Classes/**/*"
+}
